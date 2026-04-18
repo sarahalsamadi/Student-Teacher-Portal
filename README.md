@@ -21,7 +21,7 @@ The system features two primary portals:
 ## ⚙️ Installation & Usage
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/EduHub-LMS.git](https://github.com/YourUsername/EduHub-LMS.git)
+   git clone [https://github.com/sarahalsamadi/Student-Teacher-Portal.git](https://github.com/sarahalsamadi/Student-Teacher-Portal.git)
    
 2. **Install required dependencies:**
    ```bash
